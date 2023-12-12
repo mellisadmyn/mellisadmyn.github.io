@@ -141,7 +141,7 @@ function bresenhamLine(x1, y1, x2, y2) {
 }
 
 function DrawPixel(x, y) {
-  context.fillRect(x, y, 5, 5);
+  context.fillRect(x, y, 3, 3);
   console.log(`Pixel at (${x}, ${y})`);
 }
 
