@@ -1,7 +1,7 @@
 ---
 name: Bisindo Gesture Recognation Model
 tools: [Python, Tensorflow, Mediapipe, Deep Learning]
-image: https://github.com/user-attachments/assets/e0bc413a-4178-4992-937b-dfabc1a5e978)
+image: https://github.com/user-attachments/assets/f9cf681a-785d-445a-9816-e328166fd829
 
 description: This project is part of the Bangkit Academy 2024 Capstone Project. It aims to develop a dataset of 33 classes, including alphabets and commonly used words. The project also compares the performance of GRU, LSTM, and Conv-LSTM models for BISINDO sign language gesture recognition.
 ---
@@ -22,7 +22,7 @@ Evaluate and test the model — Assessing the model's performance through evalua
 
 The first phase focused on creating a BISINDO sign language dataset with 33 classes, covering both letters and commonly used words. The letter classes consist of A to Z, while the word classes include frequently used words such as Halo (Hello), Perkenalkan (Introduce), Nama (Name), Saya (I or Myself), Senang (Nice), Bertemu (Meet), and Kamu (You).
 
-![dataset-creation](https://github.com/user-attachments/assets/80d1b5ec-8987-4063-a3f8-72a228253426)
+![dataset-creation](https://github.com/user-attachments/assets/1c8d5703-a4b2-40bf-b341-632686ee8f53)
 
 This **BISINDO sign language dataset** contains a total of **3,300 recordings**, with the following details:  
 - 33 classes in total  
@@ -43,7 +43,7 @@ In this phase, we focused on developing and training a deep learning model to re
 
 This final phase involved evaluating the model’s performance, particularly its ability to make real-time predictions using a webcam feed. After comprehensive testing, ConvLSTM was found to be the best-performing model, and therefore, it was selected as the final model for deployment.
 
-![evaluation](https://github.com/user-attachments/assets/519526e8-11f8-4559-929e-8eb762bd4238)
+![evaluation](https://github.com/user-attachments/assets/10fed6d8-6f69-499e-b7cf-056188f41962)
 
 
 <p class="text-center">
