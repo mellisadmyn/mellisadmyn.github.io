@@ -2,7 +2,7 @@
 title               : Mellisa Damayanti
 description         : >-
                       A Computer Science student with a strong interest in 
-                      Machine Learning, Data Analysis, and Web Development
+                      Machine Learning and Data Analysis
 baseurl             : ""       
 repository          : mellisadmyn/mellisadmyn.github.io
 remote_theme        : yousinix/portfolYOU
@@ -24,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Mellisa Damayanti
-  image             : https://imgur.com/a/S4TF6re.jpg
+  image             : https://imgur.com/a/O1jLcnX.jpg
   email             : mellisadmyn@gmail.com
   github            : mellisadmyn
   linkedin          : mellisadmyn
