@@ -2,3 +2,4 @@
 ![27](https://github.com/user-attachments/assets/ec7af16d-edb3-42e3-93d5-ca84fe7eecf1)
 ![28](https://github.com/user-attachments/assets/c4027a03-a5fb-409c-bde6-9e1aeda2ee94)
 ![bike image](https://github.com/user-attachments/assets/a5be049c-6210-4cbd-a5d4-10f3b82695c8)
+![Sidang Skripsi PPT](https://github.com/user-attachments/assets/a36bc2f4-ffc8-4a14-9702-5509efb4cd2f)
