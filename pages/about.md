@@ -11,7 +11,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 
 I am a final-year Computer Science student with a strong interest in Machine Learning and Data Analysis. Currently, I am working on a study program research of Geographic Information Systems in the Machine Learning field. As a continuous learner, I am passionate about exploring data-driven solutions and applying my analytical skills to real-world challenges.
 
-## Languages and Tools:
+## Languages and Tools
 <div class="row">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -28,7 +28,7 @@ I am a final-year Computer Science student with a strong interest in Machine Lea
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </div>
 
-## <span class="material-symbols-rounded">school</span> Education
+## Education
 <div class="row">
 {% include about/timeline.html %}
 </div>
