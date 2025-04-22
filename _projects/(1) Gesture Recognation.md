@@ -1,7 +1,7 @@
 ---
 name: Bisindo Gesture Recognation Model
 tools: [Deep Learning, Python, Tensorflow, Mediapipe, OpenCV]
-image: https://github-production-user-asset-6210df.s3.amazonaws.com/114962318/436112725-85849917-11f6-4446-8101-599fc8c96790.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250422%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250422T144334Z&X-Amz-Expires=300&X-Amz-Signature=4892a3bb635028f47a9fb60a47e91bf437c28cf48dbbd7cf880b9d7d305ab38d&X-Amz-SignedHeaders=host
+image: https://github.com/user-attachments/assets/59c0d520-e53c-449a-9dbe-611169d6b94b
 description: This project is part of the Bangkit Academy 2024 Capstone Project. It aims to develop a dataset of 33 classes (alphabets and 7 commonly used words) and compares the performance of GRU, LSTM, and Conv-LSTM models for BISINDO sign language gesture recognition.
 ---
 
