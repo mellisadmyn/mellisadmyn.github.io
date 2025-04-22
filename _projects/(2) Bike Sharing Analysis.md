@@ -1,7 +1,7 @@
 ---
 name: Bike Sharing Analysis
 tools: [Exploratory Data Analysis, Data Visualization, Dashboard, Python, Streamlit]
-image: ![bike-sharing](https://github.com/user-attachments/assets/a5be049c-6210-4cbd-a5d4-10f3b82695c8)
+image: https://github.com/user-attachments/assets/a5be049c-6210-4cbd-a5d4-10f3b82695c8
 description: This project is the final submission for the 'Belajar Analisis Data dengan Python' class on Dicoding. It focuses on analyzing Bike Sharing Orders data and developing an interactive dashboard to visualize key insights.
 ---
 
