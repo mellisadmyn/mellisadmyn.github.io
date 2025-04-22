@@ -1,0 +1,97 @@
+### Site Settings ###
+title               : Mellisa Damayanti
+description         : >-
+                      A Computer Science student with a strong interest in 
+                      Machine Learning and Data Analysis
+baseurl             : ""       
+repository          : mellisadmyn/mellisadmyn.github.io
+remote_theme        : yousinix/portfolYOU
+open_new_tab        : false         
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Mellisa Damayanti
+  image             : https://github.com/mellisadmyn/mellisadmyn.github.io/blob/9a557f6b7073c4c7b5cfc177586854f26d25f732/20250317_110717.jpg
+  email             : mellisadmyn@gmail.com
+  github            : mellisadmyn
+  linkedin          : mellisadmyn
+  medium            : mellisadmyn
+  instagram         : mellisa.dy
+  kaggle            : mellisadamayanti
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Disqus ###
+disqus:
+  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: true                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Buy me a coffee ###
+# See https://www.buymeacoffee.com/
+buymeacoffee:
+  enabled: false
+  username: your_username
+  color: "#007bff"
+  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+  description: "Support me on Buy me a coffee!"
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
