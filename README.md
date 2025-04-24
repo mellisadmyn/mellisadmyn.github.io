@@ -4,3 +4,19 @@
 ![bike image](https://github.com/user-attachments/assets/a5be049c-6210-4cbd-a5d4-10f3b82695c8)
 ![Sidang Skripsi PPT](https://github.com/user-attachments/assets/a36bc2f4-ffc8-4a14-9702-5509efb4cd2f)
 ![20250317_110717](https://github.com/user-attachments/assets/a1ca652a-ba57-417b-980f-fce61398fdb9)
+![sertifikat_course_590_1842517_100325165912_page-0001](https://github.com/user-attachments/assets/1bafd8df-d155-4d7f-b4a9-77ecf39a8a04)
+![sertifikat_course_443_1842517_291224103154_page-0001](https://github.com/user-attachments/assets/2fbd2903-b729-4951-a929-e832c96db988)
+![sertifikat_course_319_1842517_100325170001_page-0001](https://github.com/user-attachments/assets/44b9c815-8207-4dfc-b311-5557049f6ff3)
+![sertifikat_course_185_1842517_100325170052_page-0001](https://github.com/user-attachments/assets/d7eb03ba-40ae-414c-89f5-c620089c8aaf)
+
+![Coursera L6QP3BDKGFWV_page-0001](https://github.com/user-attachments/assets/a22d3739-6d7e-466a-a822-bc6d970fa1c8)
+![Coursera 3WBCPSX4CYBG_page-0001](https://github.com/user-attachments/assets/90071303-dc41-4bb7-a6c6-50f744afa8a6)
+![Coursera 4UNWEXQV7WQP_page-0001](https://github.com/user-attachments/assets/f1768abd-a472-4904-a24a-cf9ae4488a2b)
+![Coursera 9AXVQZU5D9N9_page-0001](https://github.com/user-attachments/assets/6fadde26-ee06-4689-b783-612e480f288e)
+![Coursera HQNQQ8WNSAWD_page-0001](https://github.com/user-attachments/assets/26fabe0b-06b9-4bca-bef3-f1924428397e)
+
+![sertifikat_course_555_1842517_040324160507_pages-to-jpg-0001](https://github.com/user-attachments/assets/6ed9e6b1-4ecd-4fc5-a811-6329a26e67c2)
+![sertifikat_course_317_1842517_190224082706_page-0001](https://github.com/user-attachments/assets/cd2c7c2d-a68a-4957-94d3-78d77c50511f)
+
+![Mellisa Damayanti - Azure Data Fundamentals_page-0001](https://github.com/user-attachments/assets/8fc8a00c-bb77-4b27-8a95-77a40ad75011)
+![image](https://github.com/user-attachments/assets/df66ccc2-60f7-4337-890f-343bec9e004e)
