@@ -1,7 +1,7 @@
 ---
 name: Machine Learning Operations (MLOps)
 tools: [MLOps, Pipeline]
-image: https://www.dicoding.com/dicodingassets/coursecertificate/3743e201f5517ec67ec173b4379223f2e8667820/view
+image:
 description: Dicoding Indonesia
 external_url: https://www.dicoding.com/certificates/KEXL7E96MXG2
 ---
