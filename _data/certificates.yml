@@ -1,27 +1,90 @@
 - name: Machine Learning Operations (MLOps)
-  date: December 2024
+  date: 23 December 2024
   provider: Dicoding Indonesia
-  image: https://github.com/user-attachments/assets/59c0d520-e53c-449a-9dbe-611169d6b94b
+  image: https://github.com/user-attachments/assets/2fbd2903-b729-4951-a929-e832c96db988
   credential: KEXL7E96MXG2
   external_url: https://www.dicoding.com/certificates/KEXL7E96MXG2
 
-- name: Machine Learning Operations (MLOps)
-  date: December 2024
+- name: Belajar Penerapan Data Science
+  date: 10 December 2024
   provider: Dicoding Indonesia
-  image: https://github.com/user-attachments/assets/59c0d520-e53c-449a-9dbe-611169d6b94b
-  credential: KEXL7E96MXG2
-  external_url: https://www.dicoding.com/certificates/KEXL7E96MXG2
+  image: https://github.com/user-attachments/assets/1bafd8df-d155-4d7f-b4a9-77ecf39a8a04
+  credential: JMZVEL7EJPN9
+  external_url: https://www.dicoding.com/certificates/JMZVEL7EJPN9
+  
+- name: Machine Learning Terapan
+  date: 24 November 2024
+  provider: Dicoding Indonesia
+  image: https://github.com/user-attachments/assets/44b9c815-8207-4dfc-b311-5557049f6ff3
+  credential: NVP75WD5RXR0
+  external_url: https://www.dicoding.com/certificates/NVP75WD5RXR0
 
-- name: Machine Learning Operations (MLOps)
-  date: December 2024
+- name: Belajar Pengembangan Machine Learning
+  date: 11 November 2024
   provider: Dicoding Indonesia
-  image: https://github.com/user-attachments/assets/59c0d520-e53c-449a-9dbe-611169d6b94b
-  credential: KEXL7E96MXG2
-  external_url: https://www.dicoding.com/certificates/KEXL7E96MXG2
+  image: https://github.com/user-attachments/assets/d7eb03ba-40ae-414c-89f5-c620089c8aaf
+  credential: JLX19K652P72
+  external_url: https://www.dicoding.com/certificates/JLX19K652P72
 
-- name: Machine Learning Operations (MLOps)
-  date: December 2024
+- name: TensorFlow: Advanced Techniques Specialization
+  date: 24 May 2024
+  provider: DeepLearning.AI
+  image: https://github.com/user-attachments/assets/a22d3739-6d7e-466a-a822-bc6d970fa1c8
+  credential: L6QP3BDKGFWV
+  external_url: https://www.coursera.org/account/accomplishments/specialization/L6QP3BDKGFWV
+
+- name: TensorFlow: Data and Deployment Specialization
+  date: 11 May 2024
+  provider: DeepLearning.AI
+  image: https://github.com/user-attachments/assets/90071303-dc41-4bb7-a6c6-50f744afa8a6
+  credential: 3WBCPSX4CYBG
+  external_url: https://www.coursera.org/account/accomplishments/specialization/3WBCPSX4CYBG
+
+- name: DeepLearning.AI TensorFlow Developer Specialization
+  date: 23 April 2024
+  provider: DeepLearning.AI
+  image: https://github.com/user-attachments/assets/f1768abd-a472-4904-a24a-cf9ae4488a2b
+  credential: 4UNWEXQV7WQP
+  external_url: https://www.coursera.org/account/accomplishments/professional-cert/4UNWEXQV7WQP
+
+- name: Machine Learning Specialization
+  date: 09 April 2024
+  provider: DeepLearning.AI & Stanford University
+  image: https://github.com/user-attachments/assets/6fadde26-ee06-4689-b783-612e480f288e
+  credential: 9AXVQZU5D9N9
+  external_url: https://www.coursera.org/account/accomplishments/specialization/9AXVQZU5D9N9
+
+- name: Mathematics for Machine Learning and Data Science Specialization
+  date: 25 March 2024
+  provider: DeepLearning.AI
+  image: https://github.com/user-attachments/assets/26fabe0b-06b9-4bca-bef3-f1924428397e
+  credential: HQNQQ8WNSAWD
+  external_url: https://www.coursera.org/account/accomplishments/specialization/HQNQQ8WNSAWD
+
+- name: Belajar Analisis Data dengan Python
+  date: 4 March 2024
   provider: Dicoding Indonesia
-  image: https://github.com/user-attachments/assets/59c0d520-e53c-449a-9dbe-611169d6b94b
-  credential: KEXL7E96MXG2
-  external_url: https://www.dicoding.com/certificates/KEXL7E96MXG2
+  image: https://github.com/user-attachments/assets/6ed9e6b1-4ecd-4fc5-a811-6329a26e67c2
+  credential: JMZVDW05OZN9
+  external_url: https://www.dicoding.com/certificates/JMZVDW05OZN9
+
+- name: Belajar Dasar Git dengan GitHub
+  date: 15 February 2024
+  provider: Dicoding Indonesia
+  image: https://github.com/user-attachments/assets/cd2c7c2d-a68a-4957-94d3-78d77c50511f
+  credential: N9ZOOLLW0ZG5
+  external_url: https://www.dicoding.com/certificates/N9ZOOLLW0ZG5
+
+- name: DP-900: Azure Data Fundamentals
+  date: 16 November 2023
+  provider: Microsoft
+  image: https://github.com/user-attachments/assets/df66ccc2-60f7-4337-890f-343bec9e004e
+  credential: I561-5376
+  external_url: https://www.credly.com/badges/e8bff4e4-2ce6-40a7-87c1-745d9ad096b9
+
+- name: AI-900: Microsoft Azure AI Fundamentals
+  date: 07 January 2024
+  provider: Microsoft
+  image: https://github.com/user-attachments/assets/8fc8a00c-bb77-4b27-8a95-77a40ad75011
+  credential: GyPm-4wB4
+  external_url: https://www.credly.com/badges/f1e3363b-1d7b-4cf3-b118-4d3651007e87
