@@ -8,7 +8,7 @@ permalink: /certificates/
 <div class="container mt-5">
   <div class="row g-4 px-3">
     {% for project in site.data.certificates %}
-      <div class="col-md-4 mb-4 wow animated fadeIn" data-wow-delay=".15s">
+      <div class="col-md-4 wow animated fadeIn" data-wow-delay=".15s">
         <a href="{{ project.external_url }}" class="project card text-themed h-100" target="_blank">
           <img id="{{ project.name | slugify }}-img" class="card-img-top" src="{{ project.image }}" alt="{{ project.name }}" />
           <div class="card-body">
