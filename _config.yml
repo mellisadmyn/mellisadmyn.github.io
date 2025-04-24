@@ -5,7 +5,7 @@ description         : >-
                       Machine Learning and Data Analysis
 baseurl             : ""       
 repository          : mellisadmyn/mellisadmyn.github.io
-# remote_theme        : yousinix/portfolYOU
+remote_theme        : yousinix/portfolYOU
 open_new_tab        : false         
 
 
