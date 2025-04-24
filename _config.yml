@@ -84,9 +84,7 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "certificate"
-    values:
-      layout: "certificate"
+      type: "certificates"
   - scope:
       path: ""
       type: "posts"
